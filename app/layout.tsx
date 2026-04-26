@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Stopwatch",
-  description: "Simple stopwatch app",
+  title: "近くの図書館",
+  description: "現在地から近い図書館を探すアプリ",
 };
 
 export default function RootLayout({
