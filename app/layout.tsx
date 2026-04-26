@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Stopwatch",
-  description: "Simple stopwatch app",
+  title: "Pokémon Battle",
+  description: "ランダムポケモンバトルシミュレーター",
 };
 
 export default function RootLayout({
